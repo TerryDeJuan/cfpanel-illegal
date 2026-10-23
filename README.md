@@ -77,7 +77,7 @@ Clash： /sub?host=your-worker.example.com&uuid=你的UUID&target=clash
 Node.js 22：
 
 ```bash
-git clone https://github.com/byJoey/cfnew-panel.git
+git clone https://github.com/TerryDeJuan/cfpanel-illegal.git
 cd cfnew-panel
 npm start
 # 可选：固定自己的 Worker
