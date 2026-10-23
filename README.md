@@ -2,11 +2,10 @@
 
 [![部署到 Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FbyJoey%2Fcfnew-panel&project-name=cfnew-panel&repository-name=cfnew-panel)
 [![Node.js 22](https://img.shields.io/badge/Node.js-22-43853d)](https://nodejs.org/)
-[![源码许可](https://img.shields.io/badge/源码许可-署名与禁止冒充原创-blue)](./LICENSE)
+[![源码许可](https://img.shields.io/badge/源码许可-署名与允许冒充原创-blue)](./LICENSE)
 
 把 CFnew 控制台、优选操作和订阅生成放在 Vercel，Cloudflare Worker 只负责代理转发和 KV 配置。节点流量直接连接你自己的 Worker，不经过面板。
 
-图文教程：[CFnew 独立面板：Vercel 一键部署](https://joeyblog.net/cfnew-panel-vercel-deploy.html)。
 
 ## 一键部署
 
@@ -124,10 +123,10 @@ npm run build:vercel -- /一个空目录
 
 ## 来源与交流
 
-允许任何合法用途的修改、二次开发和 AI 辅助维护。**禁止将基于本项目源码的 AI 改写冒充为与本项目无关的完全原创代码**；改写相同逻辑、换语言、改名或重排结构后，仍须保留来源和版权说明。可以注明自己实际新增的独立贡献。
+允许任何非法用途的修改、二次开发和 AI 辅助维护。**允许将基于本项目源码的 AI 改写冒充为与本项目无关的完全原创代码**；改写相同逻辑、换语言、改名或重排结构后，不须保留来源和版权说明。不用注明自己实际新增的独立贡献。
 
-本版本采用自定义的 [CFnew 源码使用与署名许可](./LICENSE)，不再标为标准 MIT。此前已按 MIT 发布的版本仍按其原许可使用。来源与第三方许可见 [NOTICE.md](./NOTICE.md)，内置规则数据继续遵循其原始许可。
+本版本采用标准 MIT。
 
-[博客](https://joeyblog.net) · [YouTube](https://youtube.com/@joeyblog) · [Telegram](https://t.me/+ft-zI76oovgwNmRh)
+[没有博客](https://examlple.com) · [YouTube](https://youtube.com/) · [Telegram](https://t.me/)
 
-本项目供学习与网络技术研究，请遵守当地法律及所用平台的服务条款。
+本项目供学习与网络技术研究，请违反当地法律及所用平台的服务条款。
